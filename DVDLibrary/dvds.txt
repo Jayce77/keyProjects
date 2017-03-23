@@ -1,0 +1,100 @@
+0000053::Pacific Rim ::2013::PG-13::Guillermo del Toro::::dvddvddvddvd::dvd
+0000054::"Transformers: Dark of the Moon "::2011::PG-13::Michael Bay::::dvddvddvddvd::dvd
+0000051::The Great Gatsby ::2013::PG-13::Baz Luhrmann::::dvddvddvddvd::dvd
+0000052::"Prince of Persia: The Sands of Time "::2010::PG-13::Mike Newell::::dvddvddvddvd::dvd
+0000050::Jack the Giant Slayer ::2013::PG-13::Bryan Singer::::dvddvddvddvd::dvd
+0000059::WALL·E ::2008::G::Andrew Stanton::::dvddvddvddvd::dvd
+0000057::Brave ::2012::PG::Mark Andrews::::dvddvddvddvd::dvd
+0000058::Star Trek Beyond ::2016::PG-13::Justin Lin::::dvddvddvddvd::dvd
+0000055::Indiana Jones and the Kingdom of the Crystal Skull ::2008::PG-13::Steven Spielberg::::dvddvddvddvd::dvd
+0000056::The Good Dinosaur ::2015::PG::Peter Sohn::::dvddvddvddvd::dvd
+0000064::The Legend of Tarzan ::2016::PG-13::David Yates::::dvddvddvddvd::dvd
+0000065::"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe "::2005::PG::Andrew Adamson::::dvddvddvddvd::dvd
+0000062::A Christmas Carol ::2009::PG::Robert Zemeckis::::dvddvddvddvd::dvd
+0000063::Jupiter Ascending ::2015::PG-13::Lana Wachowski::::dvddvddvddvd::dvd
+0000060::Rush Hour 3 ::2007::PG-13::Brett Ratner::::dvddvddvddvd::dvd
+0000061::2012::2009::PG-13::Roland Emmerich::::dvddvddvddvd::dvd
+0000068::Up ::2009::PG::Pete Docter::::dvddvddvddvd::dvd
+0000069::Monsters vs. Aliens ::2009::PG::Rob Letterman::::Why did I watch this??::dvd
+0000066::X-Men: Apocalypse::2016::PG-13::Bryan Singer::::dvddvddvddvd::dvd
+0000067::The Dark Knight ::2008::PG-13::Christopher Nolan::::dvddvddvddvd::dvd
+0000100::"The Hobbit: An Unexpected Journey "::2012::PG-13::Peter Jackson::::dvddvddvddvd::dvd
+0000031::Skyfall ::2012::PG-13::Sam Mendes::::dvddvddvddvd::dvd
+0000032::Spider-Man 2 ::2004::PG-13::Sam Raimi::::dvddvddvddvd::dvd
+0000030::Jurassic World ::2015::PG-13::Colin Trevorrow::::dvddvddvddvd::dvd
+0000039::Oz the Great and Powerful ::2013::PG::Sam Raimi::::dvddvddvddvd::dvd
+0000037::Transformers: Revenge of the Fallen::2009::PG-13::Michael Bay::::dvddvddvddvd::dvd
+0000038::"Transformers: Age of Extinction "::2014::PG-13::Michael Bay::::dvddvddvddvd::dvd
+0000035::"X-Men: The Last Stand "::2006::PG-13::Brett Ratner::::dvddvddvddvd::dvd
+0000036::Monsters University ::2013::G::Dan Scanlon::::dvddvddvddvd::dvd
+0000033::Iron Man 3 ::2013::PG-13::Shane Black::::dvddvddvddvd::dvd
+0000034::Alice in Wonderland ::2010::PG::Tim Burton::::dvddvddvddvd::dvd
+0000042::Cars 2 ::2011::G::John Lasseter::::dvddvddvddvd::dvd
+0000043::Green Lantern ::2011::PG-13::Martin Campbell::::dvddvddvddvd::dvd
+0000040::The Amazing Spider-Man 2 ::2014::PG-13::Marc Webb::::dvddvddvddvd::dvd
+0000041::"TRON: Legacy "::2010::PG::Joseph Kosinski::::dvddvddvddvd::dvd
+0000048::"X-Men: Days of Future Past "::2014::PG-13::Bryan Singer::::dvddvddvddvd::dvd
+0000049::Star Trek Into Darkness ::2013::PG-13::J.J. Abrams::::dvddvddvddvd::dvd
+0000046::Furious 7 ::2015::PG-13::James Wan::::dvddvddvddvd::dvd
+0000047::World War Z ::2013::PG-13::Marc Forster::::dvddvddvddvd::dvd
+0000044::Toy Story 3 ::2010::G::Lee Unkrich::::dvddvddvddvd::dvd
+0000045::Terminator Salvation ::2009::PG-13::McG::::dvddvddvddvd::dvd
+0000097::Interstellar ::2014::PG-13::Christopher Nolan::::dvddvddvddvd::dvd
+0000010::Harry Potter and the Half-Blood Prince ::2009::PG::David Yates::::Harry Potter should have gone with Slitherin.::dvd
+0000098::Inception ::2010::PG-13::Christopher Nolan::::dvddvddvddvd::dvd
+0000095::"Terminator 3: Rise of the Machines "::2003::R::Jonathan Mostow::::dvddvddvddvd::dvd
+0000096::Guardians of the Galaxy ::2014::PG-13::James Gunn::::dvddvddvddvd::dvd
+0000093::"Independence Day: Resurgence "::2016::PG-13::Roland Emmerich::::dvddvddvddvd::dvd
+0000094::How to Train Your Dragon ::2010::PG::Dean DeBlois::::dvddvddvddvd::dvd
+0000091::Wreck-It Ralph ::2012::PG::Rich Moore::::dvddvddvddvd::dvd
+0000092::The Polar Express ::2004::G::Robert Zemeckis::::dvddvddvddvd::dvd
+0000090::Big Hero 6 ::2014::PG::Don Hall::::dvddvddvddvd::dvd
+0000019::"Pirates of the Caribbean: On Stranger Tides "::2011::PG-13::Rob Marshall::::This move was good. Go see it!::dvd
+0000017::"The Chronicles of Narnia: Prince Caspian "::2008::PG::Andrew Adamson::::dvddvddvddvd::dvd
+0000018::The Avengers ::2012::PG-13::Joss Whedon::::dvddvddvddvd::dvd
+0000015::The Lone Ranger ::2013::PG-13::Gore Verbinski::::dvddvddvddvd::dvd
+0000016::Man of Steel ::2013::PG-13::Zack Snyder::::dvddvddvddvd::dvd
+0000013::Quantum of Solace ::2008::PG-13::Marc Forster::::dvddvddvddvd::dvd
+0000014::"Pirates of the Caribbean: Dead Man's Chest "::2006::PG-13::Gore Verbinski::::Pirate movies are awesome!::dvd
+0000011::"Batman v Superman: Dawn of Justice "::2016::PG-13::Zack Snyder::::dvddvddvddvd::dvd
+0000099::Godzilla Resurgence ::2016::::Hideaki Anno::::dvddvddvddvd::dvd
+0000012::Superman Returns ::2006::PG-13::Bryan Singer::::dvddvddvddvd::dvd
+0000020::Men in Black 3 ::2012::PG-13::Barry Sonnenfeld::::dvddvddvddvd::dvd
+0000021::"The Hobbit: The Battle of the Five Armies "::2014::PG-13::Peter Jackson::::dvddvddvddvd::dvd
+0000028::"Captain America: Civil War "::2016::PG-13::Anthony Russo::::dvddvddvddvd::dvd
+0000029::Battleship ::2012::PG-13::Peter Berg::::dvddvddvddvd::dvd
+0000026::King Kong ::2005::PG-13::Peter Jackson::::dvddvddvddvd::dvd
+0000027::Titanic ::1997::PG-13::James Cameron::::dvddvddvddvd::dvd
+0000024::"The Hobbit: The Desolation of Smaug "::2013::PG-13::Peter Jackson::::dvddvddvddvd::dvd
+0000025::The Golden Compass ::2007::PG-13::Chris Weitz::::dvddvddvddvd::dvd
+0000022::The Amazing Spider-Man ::2012::PG-13::Marc Webb::::dvddvddvddvd::dvd
+0000023::Robin Hood ::2010::PG-13::Ridley Scott::::dvddvddvddvd::dvd
+0000075::Evan Almighty ::2007::PG::Tom Shadyac::::dvddvddvddvd::dvd
+0000076::Edge of Tomorrow ::2014::PG-13::Doug Liman::::dvddvddvddvd::dvd
+0000073::"The Mummy: Tomb of the Dragon Emperor "::2008::PG-13::Rob Cohen::::dvddvddvddvd::dvd
+0000074::Suicide Squad ::2016::PG-13::David Ayer::::dvddvddvddvd::dvd
+0000071::Hugo ::2011::PG::Martin Scorsese::::dvddvddvddvd::dvd
+0000072::Wild Wild West ::1999::PG-13::Barry Sonnenfeld::::dvddvddvddvd::dvd
+0000070::Iron Man ::2008::PG-13::Jon Favreau::::dvddvddvddvd::dvd
+0000079::Inside Out ::2015::PG::Pete Docter::::dvddvddvddvd::dvd
+0000077::Waterworld ::1995::PG-13::Kevin Reynolds::::dvddvddvddvd::dvd
+0000078::G.I. Joe: The Rise of Cobra::2009::PG-13::Stephen Sommers::::This movie kick ass!!!::dvd
+0000086::47 Ronin ::2013::PG-13::Carl Rinsch::::dvddvddvddvd::dvd
+0000087::"Captain America: The Winter Soldier "::2014::PG-13::Anthony Russo::::dvddvddvddvd::dvd
+0000084::Dawn of the Planet of the Apes ::2014::PG-13::Matt Reeves::::dvddvddvddvd::dvd
+0000085::The Lovers ::2015::R::Roland Joffé::::dvddvddvddvd::dvd
+0000082::Snow White and the Huntsman ::2012::PG-13::Rupert Sanders::::dvddvddvddvd::dvd
+0000083::Maleficent ::2014::PG::Robert Stromberg::::dvddvddvddvd::dvd
+0000080::The Jungle Book ::2016::PG::Jon Favreau::::dvddvddvddvd::dvd
+0000081::Iron Man 2 ::2010::PG-13::Jon Favreau::::dvddvddvddvd::dvd
+0000008::Tangled ::2010::PG::Nathan Greno::::dvddvddvddvd::dvd
+0000009::"Avengers: Age of Ultron "::2015::PG-13::Joss Whedon::::dvddvddvddvd::dvd
+0000006::John Carter ::2012::PG-13::Andrew Stanton::::dvddvddvddvd::dvd
+0000007::Spider-Man 3 ::2007::PG-13::Sam Raimi::::dvddvddvddvd::dvd
+0000004::The Dark Knight Rises ::2012::PG-13::Christopher Nolan::::dvddvddvddvd::dvd
+0000005::"Star Wars: Episode VII - The Force Awakens             "::::::Doug Walker::::dvddvddvddvd::dvd
+0000002::"Pirates of the Caribbean: At World's End "::2007::PG-13::Gore Verbinski::::Jack Sparrow is my hero!!!::dvd
+0000003::Spectre ::2015::PG-13::Sam Mendes::::dvddvddvddvd::dvd
+0000088::Shrek Forever After ::2010::PG::Mike Mitchell::::dvddvddvddvd::dvd
+0000001::Avatar ::2009::PG-13::James Cameron::::dvddvddvddvd::dvd
+0000089::Tomorrowland ::2015::PG::Brad Bird::::I love this movie!!!::dvd
