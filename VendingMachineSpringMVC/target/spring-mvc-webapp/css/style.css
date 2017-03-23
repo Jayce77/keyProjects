@@ -1,0 +1,38 @@
+body{
+  font-family: 'Gravitas One', cursive;
+  background-image: url(brushedsteel4.jpg);
+}
+
+h1, h2, h3,h4{
+  text-align: center;
+}
+
+h1{
+  font-size: 5em;
+}
+
+.item{
+  padding-left: 8px;
+  padding-right: 8px;
+  box-shadow: 10px 10px 5px #d6cfcd;
+}
+
+.item:hover{
+  color: #5cb85c;
+  box-shadow: 5px 5px 2px #5cb85c;
+}
+
+#itemSelectionLabel{
+  font-size: 1.35em;
+  margin-bottom: -18px;
+  padding-bottom: 18px;
+  line-height: 30px;
+}
+
+hr{
+ border-color: #d6cfcd;
+}
+
+#itemSelection{
+  color: #428bca;
+}
