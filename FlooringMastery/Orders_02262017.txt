@@ -1,0 +1,7 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Heihachi Mishima,PA,6.75,Tile,250,3.50,4.15,875.00,1037.50,129.09,2041.59
+2,Nina Williams,MI,5.75,Laminate,165,1.75,2.10,288.75,346.50,36.53,671.78
+3,Yoshimitsu,OH,6.25,Wood,54,5.15,4.75,278.10,256.50,33.41,568.01
+4,Lei Wu Wong,IN,6.00,Tile,135,3.50,4.15,472.50,560.25,61.97,1094.72
+5,Xiao Yu,PA,6.75,Laminate,65,1.75,2.10,113.75,136.50,16.89,267.14
+6,Anna Williams,PA,6.75,Wood,135,5.15,4.75,695.25,641.25,90.21,1426.71

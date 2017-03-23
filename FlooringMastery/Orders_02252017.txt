@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Jayce,OH,6.25,Wood,54,5.15,4.75,278.10,256.50,33.41,568.01
+2,Chris G,PA,6.75,Carpet,60,2.25,2.10,135.00,126.00,17.62,278.62
+3,Chun Li,PA,6.75,Carpet,76,2.25,2.10,171.00,159.60,22.32,352.92
+4,Ken Masters,IN,6.00,Wood,87,5.15,4.75,448.05,413.25,51.68,912.98
+5,M. Bison,IN,6.00,Wood,54,5.15,4.75,278.10,256.50,32.08,566.68
+6,Sagat,OH,6.25,Wood,65,5.15,4.75,334.75,308.75,40.22,683.72
+7,Blanka,MI,5.75,Wood,55.5,5.15,4.75,285.825,263.625,31.59,581.040
